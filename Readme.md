@@ -8,3 +8,7 @@ instructions:
 commands:
 pip install -r requirements.txt
 python dublicates_deleter.py
+
+
+inspired by:
+https://github.com/camd67/DupeDetector
